@@ -28,7 +28,8 @@ _printf - Display characters or variables like the standard printf function in l
 Here is the requirement you will need to use our function _printf :
 
 - Ubuntu 20.04 LTS
-- gcc
+- Compilation flags: -Wall -Werror -Wextra -pedantic -std=gnu89
+- Code should use the Betty style
 
 
 ## Description
