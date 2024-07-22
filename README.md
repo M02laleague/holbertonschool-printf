@@ -26,8 +26,10 @@ _printf - Display characters or variables like the standard printf function in l
 ``"gcc -Wall -Werror -Wextra -pedantic -std=gnu89"``
 
 Here is the requirement you will need to use our function _printf :
+``
 - Ubuntu 20.04 LTS
 - gcc
+``
 
 
 
@@ -57,7 +59,7 @@ Available conversion specifiers are: c, s, d, i, b, u, o, x, X, p, r, R, %.*
 
 
 ## Flowchart
-<img align="right" width="35%" src="https://photos.google.com/photo/AF1QipNH3JDi8aIGAeoqPAKIB2vbgombK0dIT9mdcT3g">
+<img align="right" width="35%" src="https://files.slack.com/files-pri/T0423U1MW21-F07DG98GE67/printf_flowtcharts.png">
 
 ### Date
 
