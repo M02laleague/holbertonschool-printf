@@ -26,12 +26,9 @@ _printf - Display characters or variables like the standard printf function in l
 ``"gcc -Wall -Werror -Wextra -pedantic -std=gnu89"``
 
 Here is the requirement you will need to use our function _printf :
-``
+
 - Ubuntu 20.04 LTS
 - gcc
-``
-
-
 
 
 ## Description
