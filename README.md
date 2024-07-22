@@ -1,7 +1,7 @@
 
 ## _printf
 
-  <img align="right" width="10%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 _printf - Display characters or variables like the standard printf function in language C.
 
