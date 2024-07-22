@@ -17,7 +17,13 @@ _printf - Fonction d'affichage formaté à la manière de la fonction printf sta
 - [Authors](#Authors)
 
 - [Flowchart](#Flowchart)
+
 ## Requis
+
+Ici nous aborderons les requis pour pouvoir utiliser notre commande _printf, voici la liste des éléments :
+
+
+
 ## Description
 
 *La fonction _printf permet d'afficher du texte formaté à l'écran. Elle utilise une chaîne de format composée de
