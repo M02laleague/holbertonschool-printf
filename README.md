@@ -55,7 +55,7 @@ Available conversion specifiers are: c, s, d, i, b, u, o, x, X, p, r, R, %.*
 
 
 ## Flowchart
-<img align="right" width="35%" src="https://files.slack.com/files-tmb/T0423U1MW21-F07DG9PHBB4-4af3968c52/_printf_480.png">
+<img align="right" width="35%" src="https://photos.google.com/photo/AF1QipNH3JDi8aIGAeoqPAKIB2vbgombK0dIT9mdcT3g">
 
 ### Date
 
