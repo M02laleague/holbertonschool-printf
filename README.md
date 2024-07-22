@@ -1,7 +1,7 @@
 
 ## _printf
 
-_printf - Fonction d'affichage formaté à la manière de la fonction printf standard du langage C.
+_printf - Display characters or variables like the standard printf function in language C.
 
 
 ## Sommaire
@@ -18,29 +18,26 @@ _printf - Fonction d'affichage formaté à la manière de la fonction printf sta
 
 - [Flowchart](#Flowchart)
 
-## Requis
+## Requirement
 
-Ici nous aborderons les requis pour pouvoir utiliser notre commande _printf, voici la liste des éléments :
+Here is the requirement you will need to use our function _printf :
+- Ubuntu 20.04
+- Holbertonschool-printf repository
 
 
 
 ## Description
 
-*La fonction _printf permet d'afficher du texte formaté à l'écran. Elle utilise une chaîne de format composée de
-caractères ordinaires et de spécificateurs de conversion pour insérer des valeurs dans le texte affiché.
-Les spécificateurs de conversion disponibles sont : c, s, d, i, b, u, o, x, X, p, r, R, %. Les modificateurs de longueur
-pris en charge sont : l, h.
-Des indicateurs de formatage peuvent également être utilisés, tels que le signe, la largeur du champ, la précision et
-l'alignement*
+*The _printf function displays formatted text on the screen. It uses a format string composed of ordinary
+characters and conversion specifiers to insert values into the displayed text.
+Available conversion specifiers are: c, s, d, i, b, u, o, x, X, p, r, R, %.*
 ## Examples
 
 ``
-_printf("Il y a %d pommes dans le panier.", 5);
-// Affiche "Il y a 5 pommes dans le panier."``
+``
 
 ``
-_printf("Le prix est %.2f euros.", 12.3456);
-// Affiche "Le prix est 12.35 euros."``
+``
 ## Authors
 
 - [@Salomon Diallo](https://github.com/M02laleague)
@@ -52,4 +49,4 @@ _printf("Le prix est %.2f euros.", 12.3456);
 ## Flowchart
 ### Date
 
-Juillet 2024
+July 2024
