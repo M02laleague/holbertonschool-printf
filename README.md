@@ -59,7 +59,7 @@ Available conversion specifiers are: c, s, d, i, b, u, o, x, X, p, r, R, %.*
 
 
 ## Flowchart
-<img align="right" width="35%" src="https://lucid.app/publicSegments/view/8ca7c379-e5c7-42e1-8a51-8c8f315ea47a/image.png">
+<img align="center" width="70%" src="https://lucid.app/publicSegments/view/8ca7c379-e5c7-42e1-8a51-8c8f315ea47a/image.png">
 
 ### Date
 
