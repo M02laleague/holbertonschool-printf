@@ -1,9 +1,9 @@
 #include "main.h"
-**
+/**
  * printf_dec - prints decimal
  * @args: argument to print
  * Return: number of characters printed
- */
+ **/
 
 int print_dec(va_list args)
 {
