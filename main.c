@@ -26,7 +26,8 @@ int _printf(const char *format, ...)
 			else if (format[i] == 's') // Print le string
 			{
                 char *s = va_arg(args, char *);
-                while (*s) {
+                while (*s)
+                {
                     _putchar(*s++);
                 }
             }
