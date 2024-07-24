@@ -1,5 +1,13 @@
 #include "main.h"
-
+#include "FunctionFormat/print_caps_hexa.c"
+#include "FunctionFormat/print_addr.c"
+#include "FunctionFormat/print_char.c"
+#include "FunctionFormat/print_float.c"
+#include "FunctionFormat/print_ui.c"
+#include "FunctionFormat/print_int.c"
+#include "FunctionFormat/print_octal.c"
+#include "FunctionFormat/print_string.c"
+#include "FunctionFormat/print_hexa.c"
 /**
  * GetFunctionFormat - All function format for print in _printf
  *
