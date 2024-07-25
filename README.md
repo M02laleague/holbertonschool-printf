@@ -11,7 +11,7 @@ _printf - Display in text like the standard printf function in language C.
 
 - [Description](#Description)
 
-- [Requis](#Requis)
+- [Requirement](#Requirement)
 
 - [Exemple](#Exemple)
 
@@ -38,12 +38,15 @@ A custom _printf() for learning purposes was developed by cohort #24 students DI
 _printf() function format string is a character string, beginning and ending whith char, if any. 
 These arguments are placed using the percentage '%' operator.
 Available conversion specifiers are: c, s, d, i, and %
+
 ## Examples
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/f39ed4a0-c7a8-48b7-8f97-fbd3d0886215">
 
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/b202f694-519d-457c-9525-f20f29406b91">
+
 ## Man Page
 man man_3_printf
+
 ## Testing
 <img align="left" width="538" alt="image" src="https://github.com/user-attachments/assets/7396b257-7a66-4756-896e-d3cdf2085d65">
 
@@ -56,10 +59,10 @@ man man_3_printf
 <img align="center" width="70%" src="https://lucid.app/publicSegments/view/8ca7c379-e5c7-42e1-8a51-8c8f315ea47a/image.png">
 
 ## Authors
-
 - [@Salomon Diallo](https://github.com/M02laleague)
 
 - [@Enes Gemici](https://github.com/ZycLaMenace)
+- 
 ### Date
 
 July 2024
