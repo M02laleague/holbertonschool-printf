@@ -39,24 +39,17 @@ _printf() function format string is a character string, beginning and ending whi
 These arguments are placed using the percentage '%' operator.
 Available conversion specifiers are: c, s, d, i, and %
 ## Examples
-
-``
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/f39ed4a0-c7a8-48b7-8f97-fbd3d0886215">
 
-``
-
-``
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/b202f694-519d-457c-9525-f20f29406b91">
-
-``
 ## Man Page
 man man_3_printf
 ## Testing
-<img width="538" alt="image" src="https://github.com/user-attachments/assets/7396b257-7a66-4756-896e-d3cdf2085d65">
+<img align="left" width="538" alt="image" src="https://github.com/user-attachments/assets/7396b257-7a66-4756-896e-d3cdf2085d65">
 
-<img width="456" alt="image" src="https://github.com/user-attachments/assets/0892056e-c1a1-4a2b-ba4e-bcd151428172">
+<img align="left" width="456" alt="image" src="https://github.com/user-attachments/assets/0892056e-c1a1-4a2b-ba4e-bcd151428172">
 
-<img width="456" alt="image" src="https://github.com/user-attachments/assets/cea4400e-155a-45d0-86f0-11547aa67709">
+<img aling="right" width="456" alt="image" src="https://github.com/user-attachments/assets/cea4400e-155a-45d0-86f0-11547aa67709">
 
 
 ## Flowchart
