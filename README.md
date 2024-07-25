@@ -48,16 +48,16 @@ Available conversion specifiers are: c, s, d, i, and %
 man man_3_printf
 
 ## Testing
+Test with valgrind --leak-check=full ./executable_files.c
+
 <img align="left" width="538" alt="image" src="https://github.com/user-attachments/assets/7396b257-7a66-4756-896e-d3cdf2085d65">
 
 <img align="left" width="456" alt="image" src="https://github.com/user-attachments/assets/0892056e-c1a1-4a2b-ba4e-bcd151428172">
 
 
-
-
 We tested our function directly online thanks to "https://www.onlinegdb.com/"
 
-<img width="456" alt="image" src="https://github.com/user-attachments/assets/cea4400e-155a-45d0-86f0-11547aa67709">
+<img aling="left" width="456" alt="image" src="https://github.com/user-attachments/assets/cea4400e-155a-45d0-86f0-11547aa67709">
 
 
 ## Flowchart
@@ -67,7 +67,7 @@ We tested our function directly online thanks to "https://www.onlinegdb.com/"
 - [@Salomon Diallo](https://github.com/M02laleague)
 
 - [@Enes Gemici](https://github.com/ZycLaMenace)
-- 
+
 ### Date
 
 July 2024
