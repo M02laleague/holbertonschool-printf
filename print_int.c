@@ -34,5 +34,5 @@ int print_int_recursive(int n)
 	if (n / 10)
 		count += print_int_recursive(n / 10);
 	_putchar((n % 10) + '0');
-	return (count++);
+	return (count + 1);
 }
