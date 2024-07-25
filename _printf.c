@@ -3,9 +3,6 @@
 /**
  * _printf - Display characters or variables like the std printf function in C.
  * @format: used to determine which operator we using
- * @%c: for character
- * @%s: for a string
- * @d: for a integer
  * Return: text or number that we want to print
 */
 int _printf(const char *format, ...)
@@ -20,7 +17,8 @@ int _printf(const char *format, ...)
 	for (i = 0; format[i] != '\0'; i++)
 	{
 		if (format[i] == '%')
-		{ i++;
+		{
+			i++;
 			if (format[i] == '\0')
 				return (-1);
 			if (format[i] == 'c')
@@ -30,16 +28,20 @@ int _printf(const char *format, ...)
 			else if (format[i] == 'i' || format[i] == 'd')
 				count += print_int(args);
 			else if (format[i] == '%')
-			{ _putchar('%');
+			{
+				_putchar('%');
 				count++;
 			}
 			else
-			{ _putchar('%');
+			{
+				_putchar('%');
 				_putchar(format[i]);
 				count += 2;
 			}
-		} else
-		{ _putchar(format[i]);
+		}
+		else
+		{
+			_putchar(format[i]);
 			count++;
 		}
 	}
