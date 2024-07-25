@@ -73,7 +73,7 @@ symbol. i.e. "Hello this is %s from %d cohort". '...' is the variadic \
 
 .B Input
 .PP
-_printf("Hello this is %s from %d cohort\\n\\", 24);
+_printf("Hello this is %s from %d cohort\n", 24);
 .PP
 .B Output
 .PP
