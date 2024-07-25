@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Return: Always 0
+ * Return: always 0
  */
 int main(void)
 {
@@ -40,5 +40,11 @@ int main(void)
 	printf("Len:[%d]\n", len2);
 	_printf("Unknown:[%r]\n");
 	printf("Unknown:[%r]\n");
+
+	_printf("Hello C\n");
+	_printf("%s\n", "Hello C string");
+	_printf("%d\n", 10);
+	_printf("%d\n", 10);
+
 	return (0);
 }
