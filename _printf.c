@@ -5,7 +5,7 @@
  * @format: used to determine which operator we using
  * @%c: for character
  * @%s: for a string
- * @i: or @d: for a integer
+ * @d: for a integer
  * Return: text or number that we want to print
 */
 int _printf(const char *format, ...)
