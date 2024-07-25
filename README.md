@@ -3,7 +3,7 @@
 ## _printf
 <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-_printf - Display in text like the standard printf function in language C.
+_printf - Display char and variable like the standard printf function in language C.
 
 ## Sommaire
 
@@ -53,6 +53,12 @@ Test with valgrind --leak-check=full ./executable_files.c
 <img align="left" width="538" alt="image" src="https://github.com/user-attachments/assets/7396b257-7a66-4756-896e-d3cdf2085d65">
 
 <img align="left" width="456" alt="image" src="https://github.com/user-attachments/assets/0892056e-c1a1-4a2b-ba4e-bcd151428172">
+
+
+
+
+
+
 
 
 We tested our function directly online thanks to "https://www.onlinegdb.com/"
