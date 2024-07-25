@@ -17,12 +17,13 @@ int _printf(const char *format, ...)
 	{
         if (format[i] == '%') 
 		{
-            i++; // Passer au spécificateur de conversion "%c ou %s ou %%"
-            if (format[i] == 'c') { // Print le character
+            i++;
+            if (format[i] == 'c')
+            {
                 char c = va_arg(args, int);
                 _putchar(c);
             }
-			else if (format[i] == 's') // Print le string
+			else if (format[i] == 's')
 			{
                 char *s = va_arg(args, char *);
                 while (*s)
@@ -30,23 +31,15 @@ int _printf(const char *format, ...)
                     _putchar(*s++);
                 }
             }
-			else if (format[i] == '%') // % pour print %
+			else if (format[i] == '%')
 			{
                 _putchar('%');
             }
-			else if (format[i] == 'i') // Ici pour un integer
+			else if (format[i] == 'i' || 'd')
 			{
 
             }
-			else if (format[i] == 'd') // Ici pour un integer %d
-			{
-
-            }
-			else if (format[i] == 'f') // Ici pour un float convertis en double pour va_arg
-			{
-
-            }
-        } 
+        }
 		else 
 		{
             _putchar(format[i]);
