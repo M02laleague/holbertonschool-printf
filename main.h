@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 #include <stdlib.h>
-#include "GetFunctionFormat.c"
+#include "FunctionFormat/print_char.c"
 #include <unistd.h>
 
 int _printf(const char *format, ...);
