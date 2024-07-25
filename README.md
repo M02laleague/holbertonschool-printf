@@ -55,13 +55,7 @@ Test with valgrind --leak-check=full ./executable_files.c
 <img align="left" width="456" alt="image" src="https://github.com/user-attachments/assets/0892056e-c1a1-4a2b-ba4e-bcd151428172">
 
 
-
-
-
-
-
-
-We tested our function directly online thanks to "https://www.onlinegdb.com/"
+We tested our function directly online thanks to https://www.onlinegdb.com/
 
 <img aling="left" width="456" alt="image" src="https://github.com/user-attachments/assets/cea4400e-155a-45d0-86f0-11547aa67709">
 
