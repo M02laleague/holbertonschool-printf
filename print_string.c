@@ -10,7 +10,7 @@ int print_string(va_list args)
 	int count = 0;
 
 	if (s == NULL)
-	s = "(nil)";
+	s = "(null)";
 
 	while (*s)
 	{
