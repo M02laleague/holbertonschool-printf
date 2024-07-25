@@ -4,10 +4,6 @@
 #include <stdarg.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include "_putchar.c"
-#include "print_string.c"
-#include "print_int.c"
-#include "print_char.c"
 
 int _printf(const char *format, ...);
 int _putchar(char c);
