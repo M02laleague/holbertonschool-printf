@@ -64,16 +64,6 @@ Hello this is %s from %d cohort
 
 Return value is a n number of characters except NULL
 
-.SH FLAG SPECIFIERS
-.SH ""
-
-custom and non-custom specifier modifiers
-
-.SH THE LENGTH MODIFIERS
-.SH ""
-
-Length modifiers.
-
 .SH THE CONVERSION SPECIFIERS
 .SH ""
 
@@ -97,30 +87,7 @@ Current arguments handled by conversion specifiers:
 - string argument. _printf handles s conversion specifier if the argument value
  is not a pointer to a literal string. \
 
-.IT
-
-.B o, u, x, X
-- unsigned int argument converted to unsigned octal (o), unsigned decimal (u),
-unsigned hexidecimal notation (x) for lower case and (X) for upper case
-
-.IT
-.B b
-- The unsigned int argument is converted to binary.
-
-.IT
-.B p
-- The pointer is printed in hexidecimal format preceded by '0x'.
-
-.IT
-.B r, R
-- 'r' prints string in reverse. 'R' prints encrypted rot13.
-
-.IT
-.B S
-- ascii <32 & >127 has to appear in the argument string. converted to
-hexadecimal preceded by \x
-
-.RE
+ .RE
 
 .P
 
