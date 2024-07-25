@@ -39,17 +39,17 @@ int print_int(va_list args)
 	return (count);
 }
 /**
- * print_int_recursive - prints int recursion
+ * print_uint_recursive - prints int recursion
  * @n: n to print
  *
  * Return: number of characters printed
  */
-int print_int_recursive(unsigned int n)
+int print_uint_recursive(unsigned int n)
 {
 	int count = 0;
 
 	if (n / 10)
-		count += print_int_recursive(n / 10);
+		count += print_uint_recursive(n / 10);
 	_putchar((n % 10) + '0');
 	return (count + 1);
 }
