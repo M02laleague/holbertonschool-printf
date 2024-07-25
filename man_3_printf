@@ -77,7 +77,7 @@ _printf("Hello this is %s from %d cohort\\n\\", 24);
 .PP
 .B Output
 .PP
-Hello this is %s from %d cohort
+Hello this is %s from 24 cohort
 .RE
 
 .SS Return Value
