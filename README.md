@@ -61,7 +61,7 @@ We tested our function directly online thanks to https://www.onlinegdb.com/
 
 
 ## Flowchart
-<img align="center" width="70%" src="https://files.slack.com/files-tmb/T0423U1MW21-F07E3GW26F7-475f5a6039/capture_d_____cran_2024-07-26_100754_480.png">
+<img align="center" width="70%" src="https://lucid.app/publicSegments/view/8ca7c379-e5c7-42e1-8a51-8c8f315ea47a/image.png">
 
 ## Authors
 - [@Salomon Diallo](https://github.com/M02laleague)
